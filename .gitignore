@@ -1,0 +1,9 @@
+*
+!.gitignore
+!README.md
+!public/
+!public/**
+!GmailSMTPMailer
+!GmailSMTPMailer/GmailSMTPMailer.php
+!example/
+!example/**
